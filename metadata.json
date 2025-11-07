@@ -1,0 +1,5 @@
+{
+  "name": "AI Logo Animator",
+  "description": "Design a logo for your company based on a description, and then generate an animated video of your logo using Google's generative AI models.",
+  "requestFramePermissions": []
+}
